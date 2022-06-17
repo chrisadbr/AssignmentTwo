@@ -1,0 +1,37 @@
+[
+  {
+    "firstname": "John",
+    "middlename": "Kamara",
+    "lastname": "Joseph",
+    "id": "T/UDOM/2019/22220",
+    "program": "Software Engineering"
+  },
+  {
+    "firstname": "James",
+    "middlename": "Jordan",
+    "lastname": "Michael",
+    "id": "T/UDOM/2019/00220",
+    "program": "Computer Engineering"
+  },
+  {
+    "firstname": "Farida",
+    "middlename": "Abubakar",
+    "lastname": "Twalib",
+    "id": "T/UDOM/2019/00330",
+    "program": "Computer Science"
+  },
+  {
+    "firstname": "Elizabeth",
+    "middlename": "John",
+    "lastname": "Mwenda",
+    "id": "T/UDOM/2019/0030",
+    "program": "Business Information Systems"
+  },
+  {
+    "firstname": "Daudi",
+    "middlename": "Juma",
+    "lastname": "Salim",
+    "id": "T/UDOM/2019/00550",
+    "program": "Software Engineering"
+  }
+]
